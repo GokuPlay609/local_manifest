@@ -6,8 +6,8 @@
          fetch="https://github.com/crdroidandroid" />
  <remote name="Legendleo90" 
          fetch="https://github.com/Legendleo90" />
- <remote name="ArrowOS-Devices" 
-         fetch="https://github.com/ArrowOS-Devices" />
+ <remote name="LineageOS" 
+         fetch="https://github.com/LineageOS" />
   <remote name="milouk" 
          fetch="https://github.com/milouk" />
 
@@ -36,7 +36,7 @@
  <!-- HW Tree -->
  <project path="hardware/xiaomi" 
           name="android_hardware_xiaomi.git" 
-          remote="ArrowOS-Devices"
-          revision="arrow-10.0" />
+          remote="LineageOS"
+          revision="lineage-17.1" />
 
 </manifest>
